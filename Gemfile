@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails',           '5.1.6'
 gem 'redis', '~> 3.3', '>= 3.3.1'
-gem 'puma',            '3.9.1' 
+gem 'puma',            '4.3.8' 
 gem 'yaml_db'
 gem 'bootstrap',       '~> 4.3.1'
 gem 'sass-rails',      '5.0.6'
